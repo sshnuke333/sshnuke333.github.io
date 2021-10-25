@@ -1,0 +1,21 @@
+{
+  "lang": "en",
+  "short_name": "Portfolio",
+  "name": "Nikhil Bhargav's Portfolio",
+  "start_url": ".",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/images/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
